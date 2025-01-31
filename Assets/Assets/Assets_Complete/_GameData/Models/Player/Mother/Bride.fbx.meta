@@ -1,0 +1,569 @@
+fileFormatVersion: 2
+guid: f512db19e662d2943a7d519418e1089b
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gbody
+    second: {fileID: 2100000, guid: a998993737d385b4b9af19c96af3adbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NGhead
+    second: {fileID: 2100000, guid: 191ce5fac977e314c8f7fc4c8f3729a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NewEye01
+    second: {fileID: 2100000, guid: f3cf35254c650a240aa222eb7d661aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bunnyclothes2
+    second: {fileID: 2100000, guid: f20274cd919034243b4c10715e565415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bunnyclothes_black
+    second: {fileID: 2100000, guid: 79703f4e51322ba42b31e6f5f1ee59ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bunnyclothes_red
+    second: {fileID: 2100000, guid: 31d9103ebd3ea32459eac1aa4aabae1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: businessclothes1
+    second: {fileID: 2100000, guid: 0fa14a0e29c3c3d4a95c18af6e5b87f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: businessclothes2
+    second: {fileID: 2100000, guid: 466e9249511700f4aa7e273850cb2f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes1
+    second: {fileID: 2100000, guid: 3ef6aa6015bf67146a9e180a4c0be986, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes1_1
+    second: {fileID: 2100000, guid: 88c794b08a6c36d4bad96e770fa7ae00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes1_2
+    second: {fileID: 2100000, guid: 8eb8fac8c7bdb6a4096fb971a1ae5fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_1down
+    second: {fileID: 2100000, guid: f11704cdcc8ceef498822fd059e31af1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_1up
+    second: {fileID: 2100000, guid: 5f3b37c6671ae4942904bbf9a889304d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_2down
+    second: {fileID: 2100000, guid: f86560d313da3a748b6a9cd334b36162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_2up
+    second: {fileID: 2100000, guid: 001939b585ee0bf42969925eb4d4e55f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2down
+    second: {fileID: 2100000, guid: 2e676302f85612143b5b0dba34319e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2up
+    second: {fileID: 2100000, guid: 249f3f39108e10f45a92df36edd8b389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dateshoes
+    second: {fileID: 2100000, guid: 0afc35c5efa702f4a87ee451f58ff619, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyebrow_default
+    second: {fileID: 2100000, guid: 7d34cf14a3d787a4e8c3ba8eee900945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gun
+    second: {fileID: 2100000, guid: 810a3a456dd025747b79df9788fc1d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair1
+    second: {fileID: 2100000, guid: 5525744ae74d7a54293d21c9a3bfdbdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hairColorBunny
+    second: {fileID: 2100000, guid: 286ab2734be4a4c469315b44b77af254, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hairColorBunny2
+    second: {fileID: 2100000, guid: 9bc50fc8a32a2354dbb593816228e1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorDate
+    second: {fileID: 2100000, guid: e83a44886c833fd459715299350631db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorDate2
+    second: {fileID: 2100000, guid: f5a1cfea64af2434a9fada4444fac202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorSniper
+    second: {fileID: 2100000, guid: 22c88a0bd67e8da4f80a4ef4fd67b734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorSniper2
+    second: {fileID: 2100000, guid: 2a1f96eff05010543b878e94305cd182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorWaiter
+    second: {fileID: 2100000, guid: 3012dc4c767608d469bb456db1d75882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorWaiter2
+    second: {fileID: 2100000, guid: 0fcf645f93dd83d408744d67a91e5cc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorWedding
+    second: {fileID: 2100000, guid: e1372fc5528418e4aa0b6c0ea0beff0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hariColorWedding2
+    second: {fileID: 2100000, guid: 16d3c9cf33af4254ab8a1aa7f2f24471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitclothes01
+    second: {fileID: 2100000, guid: c9be503717e355f4695821612e64a1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitclothes02
+    second: {fileID: 2100000, guid: a527ba3bd4c03d74c9825d4a80e35e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitclothes03
+    second: {fileID: 2100000, guid: cd5535612a858a84b93f67101514ef59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitshoes
+    second: {fileID: 2100000, guid: 6aa5816cdbecbb14d8ff6ed4b51324f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerGlassesAlpha
+    second: {fileID: 2100000, guid: 3ecf4777e870b594db2589ced06c0e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerGlassesMat
+    second: {fileID: 2100000, guid: ce9980600a0b7fa44832c0a9138b035e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerclothes
+    second: {fileID: 2100000, guid: 38ed5d22a97a0b74caeac3a9ecedac87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerclothes1
+    second: {fileID: 2100000, guid: 60dd77b873655384284246159441e3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerclothes2
+    second: {fileID: 2100000, guid: eaf7400589f1d3c4583c53cfcd192679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerglove
+    second: {fileID: 2100000, guid: 839190886700ed64686f0b358ec26a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerpants
+    second: {fileID: 2100000, guid: 95678f86d73d32b4f98dc37dce014410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerpants1
+    second: {fileID: 2100000, guid: 3eb409dcb1d021a48a02fdbf1313063f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killerpants2
+    second: {fileID: 2100000, guid: 9502e48a4b95eeb41be9872e535b0347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killershoes
+    second: {fileID: 2100000, guid: 7d991d88dd4388945b4a3d00238c3743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killershoes1
+    second: {fileID: 2100000, guid: ecddcb36f0b454b469aee30aa0ffd28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: killershoes2
+    second: {fileID: 2100000, guid: 5b37af62a9f32ec4ba5b81cd85d0739b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin2
+    second: {fileID: 2100000, guid: df637819da3395347814c98bce907769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waiterhat
+    second: {fileID: 2100000, guid: b9ea955c01530cd4089494557a011d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weddingEarring
+    second: {fileID: 2100000, guid: 6d9522f4e77b0e648a5416684eced1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weddingHat
+    second: {fileID: 2100000, guid: 8cb4cc36d3321834498e5a7a63065a30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weddingclothes_1
+    second: {fileID: 2100000, guid: 703d4ee7108a47647a68cc5c94ea7328, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: weddingshoes
+    second: {fileID: 2100000, guid: c27230200944eef4eb18a03d1bc6d8c9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gbody
+    second: {fileID: 2800000, guid: 8db4a9faec7df1d4dbf9741e90abd6f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NGhead
+    second: {fileID: 2800000, guid: 41fe7ce6c6d2d1a44840420fa7f36dfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NewEye01
+    second: {fileID: 2800000, guid: c03b494ac843f2c4499efc2f64398d6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bunnyclothes2
+    second: {fileID: 2800000, guid: 55d531533f9d1964fabf13fe44b9cff0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bunnyclothes_black
+    second: {fileID: 2800000, guid: 80c516da0619f5741bc1b069597b97f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bunnyclothes_red
+    second: {fileID: 2800000, guid: c3488fa215a037f40baee1c0285c875e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: businessclothes1
+    second: {fileID: 2800000, guid: e1678dd1a21e1ff42b9146bb681da75e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: businessclothes2
+    second: {fileID: 2800000, guid: b77423d0e1ad79f48b21a51d3f60c927, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes1
+    second: {fileID: 2800000, guid: a2ac9b06a24b06541bcb0af2414f897c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes1_1
+    second: {fileID: 2800000, guid: c2e25d6a6d717344093d330c79ff58b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes1_2
+    second: {fileID: 2800000, guid: 286b89b802370704abd826860c3ec227, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_1down
+    second: {fileID: 2800000, guid: ef195a2e697ada44bb4b9e7fa82c90c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_1up
+    second: {fileID: 2800000, guid: 27481cf28c0b21248818a200ef65b119, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_2down
+    second: {fileID: 2800000, guid: 92fe2110636c9c34b86c810285c68c88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2_2up
+    second: {fileID: 2800000, guid: b132b1fd8c6d3654b92f128230131be4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2down
+    second: {fileID: 2800000, guid: 2633fdb9aa1a4c54c81274b1040352d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateclothes2up
+    second: {fileID: 2800000, guid: fb8f878460ea0d9489bd27ade60b36d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dateshoes
+    second: {fileID: 2800000, guid: 58b8f386aa2453947bd600efd907f9a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: gun
+    second: {fileID: 2800000, guid: 2d12d991353923f4290912b299d55fe2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hair1
+    second: {fileID: 2800000, guid: 999c3d3dce42cf84098aa046c3d22c74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitclothes01
+    second: {fileID: 2800000, guid: 847d5ff701b8d98409e9a8de262ddde9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitclothes02
+    second: {fileID: 2800000, guid: e4c9334e0f6511946883cda6c7b58b07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitclothes03
+    second: {fileID: 2800000, guid: 3fd7486ca1e2768448d515bdb64fe19e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: jumpsuitshoes
+    second: {fileID: 2800000, guid: db7133a859f08b2419d62ef55f7723aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerclothes
+    second: {fileID: 2800000, guid: e5531eefb8752354db0b14c924c14024, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerclothes1
+    second: {fileID: 2800000, guid: ab9122c22dc51664c877ffca5583d896, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerclothes2
+    second: {fileID: 2800000, guid: 1bc88e2259f7348428c13627706aecc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerglove
+    second: {fileID: 2800000, guid: 9aeb8427b3d943c4f8cf5c6e7a719307, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerpants
+    second: {fileID: 2800000, guid: 8774c0ca9582c1640ae1f79b78bfaccc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerpants1
+    second: {fileID: 2800000, guid: d243516969494da47a1a94236eabefc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killerpants2
+    second: {fileID: 2800000, guid: dafc953b05b57f046b8a10dec00812c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killershoes
+    second: {fileID: 2800000, guid: 02607db883d0f4f41932add2013ddb12, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killershoes1
+    second: {fileID: 2800000, guid: 361d392f32fd39f4c8a1132bd2ef83c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: killershoes2
+    second: {fileID: 2800000, guid: bb964ee17d822ef409c706939cc195d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: waiterhat
+    second: {fileID: 2800000, guid: 9fde75a2f16e314409edb6526fd71244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weddingEarring
+    second: {fileID: 2800000, guid: 12aef018d8d0e64468b9b782211a82ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weddingHat
+    second: {fileID: 2800000, guid: 9724e4b948c025d45a98a63b6cdcfe3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weddingclothes_1
+    second: {fileID: 2800000, guid: b3f83e5dc5593df409ed4022f59eb36e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weddingshoes
+    second: {fileID: 2800000, guid: c0799e5d975e6be49ac0356bfca73f63, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 61
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

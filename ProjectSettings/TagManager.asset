@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stage
+  - Dustbin
+  - cone
+  - cash
+  - badclothes
+  - goodclothes
+  - baditem
+  - end
+  - wedding dress
+  - casual dress
+  - Bride
+  - gem_choice
+  - wedding_choice
+  - casual_choice
+  - safe_choice
+  - book_choice
+  - bed_choice
+  - Stagenew
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
